@@ -54,7 +54,7 @@ struct MenuView: View {
                             CurrencyConverterView()
                         } label: {
                             ToolCard(title: "Currency Converter",
-                                     subtitle: "Use a custom exchange rate",
+                                     subtitle: "Custom exchange rate",
                                      symbol: "arrow.left.arrow.right",
                                      tint: .red)
                         }
